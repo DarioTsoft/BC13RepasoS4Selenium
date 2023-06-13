@@ -10,6 +10,10 @@
 1. Marcelo Magallanes
 2. Roro
 3. Andrés Llanezas
-4. Cristian Vargas
-5. Riveros Fabricio
-6. Dario Marconi
+4. Julieta Scala
+5. Cristian Vargas
+6. Riveros Fabricio
+7. Dario Marconi
+8. Marcos Narvaez
+9. Palacios Shirley
+10. Ana Sincich
